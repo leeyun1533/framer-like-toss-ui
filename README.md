@@ -6,7 +6,7 @@
 
 # Demo
 
-[DEMO](https://6148b849228cbcb927ac3529--upbeat-gates-f9428b.netlify.app/)
+[DEMO](https://upbeat-gates-f9428b.netlify.app/)
 
 
 ## Available Scripts
