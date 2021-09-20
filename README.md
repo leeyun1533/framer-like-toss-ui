@@ -6,8 +6,6 @@
 
 # Demo
 
-https://user-images.githubusercontent.com/20167165/134040044-6b943a3b-bbb9-42b1-bd57-71d18bc27ffa.mov <br/>
-
 [DEMO](https://6148b849228cbcb927ac3529--upbeat-gates-f9428b.netlify.app/)
 
 
