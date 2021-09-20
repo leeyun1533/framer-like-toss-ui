@@ -3,6 +3,14 @@
 `framer-motion`에 관심이 생겨 진행한 간단 사이드프로젝트. <br/>
 평소에 멋있다고 생각했던 toss의 알림 인터렉션을 구현해보자.
 
+
+# Demo
+
+https://user-images.githubusercontent.com/20167165/134040044-6b943a3b-bbb9-42b1-bd57-71d18bc27ffa.mov <br/>
+
+[DEMO](https://6148b849228cbcb927ac3529--upbeat-gates-f9428b.netlify.app/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
